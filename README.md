@@ -2,9 +2,6 @@
 
 Performed analysis for Kickstarter to uncover trends.
 
-#Parent Category
-![Parent category](Outcome%20base%20on%20Launch%20Dates-Parent category.png)
-
 #Outcomes Vs Goals
 ![Goals](Outcomes_vs_Goals.png.png)
 
